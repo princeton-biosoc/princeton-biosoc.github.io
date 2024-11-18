@@ -1,0 +1,14 @@
+name: "biosoc"
+title: "BIOSOC"
+
+navbar:
+  title: "Princeton Biosociology Research Group"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Link"
+    href: http://github.com/princeton-biosoc.github.io/
+
+output:
+  html_document:
+    theme: darkly
