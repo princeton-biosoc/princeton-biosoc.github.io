@@ -1,0 +1,103 @@
+/* Import Fonts ____________________________________________________ */
+@import url('https://fonts.googleapis.com/css?family=Sometype+Mono');
+@import url('https://fonts.googleapis.com/css?family=Spectral');
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+
+
+/* Remove Navigation Bar ____________________________________________________ */
+.navbar-default {
+    display: none;
+}
+
+/* Link Colors ____________________________________________________ */
+a:link {
+  color: #3c4f8c;
+}
+
+a:visited {
+  color: #455ba3;
+}
+
+a:hover {
+  color: #455ba3;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #455ba3;
+}
+
+
+
+h1 {
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 30pt;
+  font-weight: 600;
+  line-height: 1em;
+  color: Black;
+}
+
+h2 {
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 19pt;
+  font-weight: 500;
+  color: Black;
+}
+
+h3 {
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 14pt;
+  font-weight: 600;
+  color: Black;
+}
+
+h4{
+  font-family: 'Sometype Mono', monospace;
+  font-size: 18pt;
+  font-weight: 500;
+  color: Black;
+  letter-spacing: 2px;
+}
+
+h5{
+  font-family: 'Sometype Mono', monospace;
+  font-size: 14pt;
+  font-weight: 500;
+  color: #7E7E78;
+  letter-spacing: 2px;
+}
+
+h6{
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 0;
+  line-height: 0;
+}
+
+body{
+  font-family: 'Spectral', Garamond, serif;
+  font-weight: 400;
+  font-size: 12pt;
+  background-color: #e2f1f4; 
+  color: #Black;
+  margin: auto;
+  max-width: 1325px
+}
+
+body .main-container {
+  max-width: 1325px;
+  width: 1325px;
+}
+
+span {
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 32pt;
+  font-weight: 700;
+  color: Black;
+}
+
+span b {
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 19pt;
+  font-weight: 500;
+}
