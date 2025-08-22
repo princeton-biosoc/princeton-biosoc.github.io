@@ -50,13 +50,13 @@
 
 <body style="line-height: 1.25;">
 Dalton Conley
-[<span style="font-size: 16pt; color: #455ba3;">⟿</span>](www.samtrejo.com)
+[<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/dalton-conley)
 <body style="line-height: 2;">
 <h4 style="font-size: 8pt; color: #7E7E78; line-height: .5;">
 HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </h4>      
 
 <body style="line-height: 1.25;">
-Sam Trejo [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](www.samtrejo.com)
+Sam Trejo [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.samtrejo.com)
 <body style="line-height: 2;">
 <h4 style="font-size: 8pt; color: #7E7E78;">
 ASSISTANT PROFESSOR OF SOCIOLOGY </h4>   
@@ -101,7 +101,7 @@ Rebecca Johnson [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](http
 
 Simone Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://simonezhang.com/)
 
-Ramina Soutedeh [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
+Ramina Sotoudeh [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
 
 Jinyuan Qi
 
@@ -135,21 +135,23 @@ Andrew McMartin <span style="font-size: 16pt; font-family: 'Georgia'"></span>
 ###### .
 ###### .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-</body> 
+<body style="line-height: 1.5;">
+The Princeton University Biosociology Research Group was founded in 2016 by Professor Dalton Conley. In 2021, Professor Sam Trejo joined the lab. Broadly, the research group seeks to thoughtfully integrate genetic data and other biomarkers into sociological and demographic research. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape social, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of data sets with genotyped respondents, ranging from detailed longitudinal studies to large-scale biobanks. While the lab has a particular focus on the analysis of genomic data, members of the lab analyze a wide range of biological data sources (e.g., DNAm, CRP, and other blood-based biomarkers). Completed and ongoing research projects include:
 <br>
+<br>
+<ul>
+<li>The social scientific analysis of polygenic scores, individual-level measures that summarize genetic</li> predisposition dispersed widely across the genome</li>
+<li>Developing novel methods for detecting gene-environment interactions for complex traits</li>
+<li>Identifying indirect genetic effects among social peers (e.g., genetic nurture)</li>
+<li>Documenting patterns of genetic and phenotypic assortative mating</li>
+<li>Leveraging within-family and quasi-experimental methods to estimate causal genetic effects</li>
+<li>Exploring socioeconomic gradients in biological aging</li>
+<li>The construction and application of genetic similarity proportions (also known as genetic ancestry proportions)</li>
+<li>Grappling with ethical and regulatory questions raised by rapidly emerging genomic tools</li>
+</ul>
 <br>
 <body style="line-height: 1.5;">
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-</body> 
-<br>
-<br>
-<body style="line-height: 1.5;">
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</body> 
-<br>
-<br>
-<body style="line-height: 1.5;">
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. Please email Dalton and Sam if you would like to be added to the Biosoc listserv. While the lab is largely comprised of doctoral students from Princeton University’s Department of Sociology and/or Office of Population Research, graduate students and researchers from other academic departments and institutions are welcome. 
 
 <!-- 
 ********************************************************************************
@@ -165,157 +167,225 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ###### .
 ###### .
-
+###### .
 
 ##### Working Papers
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
-### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
+### [DNA Reveals the Growing Ancestral Diversity of the United States](https://osf.io/preprints/socarxiv/mdybz_v1)
 
-Luyin Zhang and **Sam Trejo**. *SocArXiv*.
+Sam Trejo and Marissa Thompson. *APC Working Paper*.
 
 ###### .
+
+### [Documenting Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/mdybz_v1)
+
+Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
+
+###### .
+
+### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
+
+Luyin Zhang and Sam Trejo. *SocArXiv*.
+
+###### .
+
+### [Within-Family GWAS does not Ameliorate the Decline in Prediction Accuracy across Populations](https://www.biorxiv.org/content/10.1101/2024.12.12.628188v1)
+
+Luyin Zhang and Dalton Conley. *bioRxiv*.
+
 ###### .
 
 ### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
-Ramina Sotoudeh, **Sam Trejo**, Arbel Harpak, and Dalton Conley. *bioRxiv*.
+Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
+
+# \
+
+##### 2026
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
-###### .
 
-### [“They Have Black in Their Blood”: Exploring How Genetic Ancestry Tests Affect Racial Appraisals and Classifications](https://osf.io/preprints/socarxiv/8tnrk/)
+### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
 
-Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
+Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
 
-###### .
-###### .
+# \
 
 ##### 2025
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
-###### .
+
+### [Does Genetic Predisposition Explain the “Immigrant Health Paradox”? Evidence for Non-Hispanic White Older Adults in the US](https://www.mdpi.com/3042-4372/1/1/4)
+
+Zoya Gubernskaya and Dalton Conley. *Populations*.
+
+# \
 
 ##### 2024
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
-
 
 ###### .
 
 ### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
 
-**Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences
-)
+Sam Trejo and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
 
 ###### .
+
+### [The Influence of Extended Kin on Educational Achievement: An Examination of Cousin Order and Cousin Group Size](https://www.journals.uchicago.edu/doi/abs/10.1086/729812)
+Kieron Barclay and Dalton Conley.  *American Journal of Sociology*.
+
 ###### .
 
 ### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.science.org/doi/10.1126/sciadv.adk4737)
 
-**Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
+Sam Trejo, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
 
-<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
-[WASHINGTON POST I](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/), [WASHINGTON POST II](https://www.washingtonpost.com/nation/2024/08/08/lead-schools-pipes-testing/),
-[HARVARD PUBLIC HEALTH MAGAZINE](https://harvardpublichealth.org/environmental-health/the-children-of-the-flint-michigan-water-crisis-ten-years-later/),
-[PROPUBLICA](https://www.propublica.org/article/flint-michigan-water-crisis-ten-years-after),
-[M-LIVE](https://www.mlive.com/news/flint/2022/05/flint-kids-math-achievement-decreased-after-water-crisis-um-study-says.html)
-</h4>
-
-###### .
 ###### .
 
 ### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://doi.org/10.1093/sf/soae018)
 
-**Sam Trejo**. *Social Forces*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2024_02_socfor_gen_bw.pdf)
+Sam Trejo. *Social Forces*.
 
-###### .
-###### .
+# \
 
-#### 2023
+##### 2023
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
 ### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
 
-**Sam Trejo** and Daphne Martschenko. *Behavioral and Brain Sciences Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
+Sam Trejo and Daphne Martschenko. *Behavioral and Brain Sciences*.
+
+###### .
+
+### [Child-Driven Parenting: Differential Early Childhood Investment by Offspring Genotype](https://academic.oup.com/sf/article-abstract/102/1/310/6989759)
+
+Asta Breinholt and Dalton Conley.  *Social Forces*.
 
 # \
 
-#### 2022
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
-
-###### .
-###### .
-
-#### 2021
+##### 2022
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
-### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
+### [Polygenic Scores for Plasticity: A New Tool for Studying Gene-Environment Interplay](https://read.dukeupress.edu/demography/article/59/3/1045/302879/Polygenic-Scores-for-Plasticity-A-New-Tool-for)
 
-Benjamin W. Domingue, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf)
+Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
+
+# \
+
+##### 2021
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
+
+### [Gene-environment Interactions and School Tracking During Secondary Education: Evidence From the U.S.](https://www.sciencedirect.com/science/article/pii/S0276562421000482)
+
+Fumiya Uchikoshi and Dalton Conley. *Research in Social Stratification and Mobility*.
+
 ###### .
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
-Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_09_natgen_gwas_faq.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
+Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature Genetics*.
+
+###### .
+
+### [Genome-wide Heritability Estimates For Family Life Course Complexity](https://read.dukeupress.edu/demography/article/58/4/1575/174065/Genome-Wide-Heritability-Estimates-for-Family-Life)
+
+Zachary Van Winkle and Dalton Conley. *Demography*.
+
+###### .
+
+### [Public Attitudes Toward Genetic Risk Scoring in Medicine and Beyond](https://www.sciencedirect.com/science/article/pii/S0277953621001283) 
+
+Simone Zhang, Rebecca Johnson, John Novembre, Edward Freeland, Dalton Conley. *Social Science and Medicine*.
+
+###### .
+
+### [The Production of Inequalities Within Families and Across Generations: The Intergenerational Effects of Birth Order on Educational Attainment](https://academic.oup.com/esr/article/37/4/607/6157419)
+
+Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Review*.
 
 # \
 
-#### 2020
+##### 2020
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+
+###### .
+
+### [Mendelian Randomization and Education — Challenges Remain](https://academic.oup.com/ije/article/49/4/1193/5919240)
+
+Andrew McMartin and Dalton Conley.  *International Journal of Epidemiology*.
 
 ###### .
 
 ### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
 
-Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
+Benjamin Domingue, Sam Trejo, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
+
+###### .
 
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
-Emma Armstrong-Carter, **Sam Trejo**, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur_faq.pdf)
+Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin Domingue.  *Psychological Science*.
 
 # \
 
-#### 2019
+##### 2019
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
 ### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
-**Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2019_12_biodem_gennur_bias.pdf)
+Sam Trejo and Benjamin Domingue.  *Biodemography and Social Biology*.
 
 ###### .
+
+### [Birth Weight and Development: Bias or Heterogeneity by Polygenic Risk Factors?](https://link.springer.com/article/10.1007/s11113-019-09559-6)
+
+Dalton Conley, Ramina Sotoudeh, and Thomas Laidley. *Population Research and Policy Review*.
+
+###### .
+
+### [Effects of the Peer Metagenomic Environment on Smoking  Behavior](https://www.pnas.org/doi/10.1073/pnas.1806901116)
+Ramina Sotoudeh, Kathleen Mullan Harris, and Dalton Conley.  *Proceedings of the National Academy of Sciences*.
+
 ###### .
 
 ### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
-Daphne Martschenko, **Sam Trejo**, and Benjamin W. Domingue.  *AERA Open*.
+Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
 
 # \
 
-#### 2018
+##### 2018
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
 ### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
-**Sam Trejo**, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue. *Sociological Science*.
+Sam Trejo, Daniel Belsky, Jason Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin Domingue. *Sociological Science*.
+
+###### .
+
+### [The Promise of Genes for Understanding Cause and Effect](https://www.pnas.org/doi/10.1073/pnas.1805585115)
+
+Dalton Conley and Simone Zhang. *Proceedings of the National Academy of Sciences*.
+
+###### .
+
+### [A Sibling Method for Identifying vQTLs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194541)
+
+Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boardman, and Mark Siegal. *PLOS One*.
+
 
 </div>
 
