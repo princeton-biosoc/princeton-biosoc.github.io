@@ -1,7 +1,4 @@
 
-
-
-
 <div style="text-align: center;">
   
 # Princeton University 
@@ -11,7 +8,11 @@
 <img src="files/helix2.png" style="width: 20%">
 </div>
 
+<!-- 
+********************************************************************************
 
+********************************************************************************
+-->
 
 <style>
 .column-left{
@@ -71,19 +72,21 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </h4>
 
 ###### .
 
-Ludovico Genovese
+Ha-Joon Chung [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/ha-joon-chung)
 
-Ha Joon Chung
 
-Beza Taddess
+Ludovico Genovese [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.columbia.edu/content/ludovico-genovese)
 
-Yuxin Liu
+Tiffany Liu [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/tiffany-liu)
 
-Luyin Zhang 
+Yuxin Liu [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/yuxin-liu)
 
-Tiffany Liu
+Beza Taddess [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/beza-taddess)
 
-Ruolin Wang
+Ruolin Wang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://opr.princeton.edu/people/ruolin-wang)
+
+Luyin Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://opr.princeton.edu/people/luyin-zhang)
+
 
 ###### .
 ###### .
@@ -95,24 +98,23 @@ Ruolin Wang
 
 ###### .
 
-Byungkyu Lee [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.byungkyulee.com/)
-
 Rebecca Johnson [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.rebeccajohnson.io)
 
-Simone Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://simonezhang.com/)
+Byungkyu Lee [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.byungkyulee.com/)
+
+Andrew McMartin [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/andrew-mcmartin)
+
+Jinyuan Qi <span style="font-size: 16pt; color: #455ba3;">⟿</span>
 
 Ramina Sotoudeh [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
 
-Jinyuan Qi
-
 Fumiya Uchikoshi [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.wcfia.harvard.edu/people/fumiya-uchikoshi)
 
-Andrew McMartin <span style="font-size: 16pt; font-family: 'Georgia'"></span>
+Simone Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://simonezhang.com/)
 
 ###### .
 ###### .
 ###### .
-
 
 <!-- 
 ********************************************************************************
@@ -135,23 +137,27 @@ Andrew McMartin <span style="font-size: 16pt; font-family: 'Georgia'"></span>
 ###### .
 ###### .
 
-<body style="line-height: 1.5;">
-The Princeton University Biosociology Research Group was founded in 2016 by Professor Dalton Conley. In 2021, Professor Sam Trejo joined the lab. Broadly, the research group seeks to thoughtfully integrate genetic data and other biomarkers into sociological and demographic research. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape social, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of data sets with genotyped respondents, ranging from detailed longitudinal studies to large-scale biobanks. While the lab has a particular focus on the analysis of genomic data, members of the lab analyze a wide range of biological data sources (e.g., DNAm, CRP, and other blood-based biomarkers). Completed and ongoing research projects include:
+<p style="text-align: justify;">
+The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into sociological and demographic research. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
+</p>
+<br>
+Completed and ongoing research projects include: 
 <br>
 <br>
 <ul>
-<li>The social scientific analysis of polygenic scores, individual-level measures that summarize genetic</li> predisposition dispersed widely across the genome</li>
-<li>Developing novel methods for detecting gene-environment interactions for complex traits</li>
-<li>Identifying indirect genetic effects among social peers (e.g., genetic nurture)</li>
-<li>Documenting patterns of genetic and phenotypic assortative mating</li>
-<li>Leveraging within-family and quasi-experimental methods to estimate causal genetic effects</li>
-<li>Exploring socioeconomic gradients in biological aging</li>
-<li>The construction and application of genetic similarity proportions (also known as genetic ancestry proportions)</li>
+<li> Integrating <em>polygenic scores</em> – individual-level measures which summarize genetic</li> predisposition widely dispersed across the genome</li> – into social scientific models of human behavior
+<li>Developing and applying novel methods for detecting gene-environment interactions for complex traits</li>
+<li>Identifying indirect genetic effects among family members and social peers  (e.g., genetic nurture)</li>
+<li>Exploring socioeconomic gradients in epigenetic aging at different stages of the life-course</li>
+<li>Drawing on genotyped sibling pairs and/or parent-child pair data to estimate causal genetic effects</li>
+<li>Documenting historical and contemporary patterns of genetic and phenotypic assortative mating</li>
+<li>Leveraging <em>genetic similarity proportions</em> – also known as <em>genetic ancestry proportions</em> – in the study of racial/ethnic identity formation and demographic change </li>
 <li>Grappling with ethical and regulatory questions raised by rapidly emerging genomic tools</li>
 </ul>
 <br>
-<body style="line-height: 1.5;">
-During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. Please email Dalton and Sam if you would like to be added to the Biosoc listserv. While the lab is largely comprised of doctoral students from Princeton University’s Department of Sociology and/or Office of Population Research, graduate students and researchers from other academic departments and institutions are welcome. 
+<p style="text-align: justify;">
+During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [Dalton](dconley@princeton.edu) and [Sam](dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
+</p>
 
 <!-- 
 ********************************************************************************
@@ -179,11 +185,13 @@ During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from
 Sam Trejo and Marissa Thompson. *APC Working Paper*.
 
 ###### .
+###### .
 
 ### [Documenting Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/mdybz_v1)
 
 Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
 
+###### .
 ###### .
 
 ### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
@@ -191,11 +199,13 @@ Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
 Luyin Zhang and Sam Trejo. *SocArXiv*.
 
 ###### .
+###### .
 
 ### [Within-Family GWAS does not Ameliorate the Decline in Prediction Accuracy across Populations](https://www.biorxiv.org/content/10.1101/2024.12.12.628188v1)
 
 Luyin Zhang and Dalton Conley. *bioRxiv*.
 
+###### .
 ###### .
 
 ### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
@@ -212,6 +222,10 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 ### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
 
 Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+
+##### <span style="font-size: 8pt; color: #7E7E78;">PRE-REGISTRATION</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://osf.io/dj9pt/registrations)
+
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/2025_09_ajs_anc_exp)
 
 # \
 
@@ -235,17 +249,24 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 
 Sam Trejo and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
 
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/phenotype_differences)
+
+###### .
 ###### .
 
 ### [The Influence of Extended Kin on Educational Achievement: An Examination of Cousin Order and Cousin Group Size](https://www.journals.uchicago.edu/doi/abs/10.1086/729812)
 Kieron Barclay and Dalton Conley.  *American Journal of Sociology*.
 
 ###### .
+###### .
 
 ### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.science.org/doi/10.1126/sciadv.adk4737)
 
 Sam Trejo, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
 
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
+
+###### .
 ###### .
 
 ### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://doi.org/10.1093/sf/soae018)
@@ -263,6 +284,7 @@ Sam Trejo. *Social Forces*.
 
 Sam Trejo and Daphne Martschenko. *Behavioral and Brain Sciences*.
 
+###### .
 ###### .
 
 ### [Child-Driven Parenting: Differential Early Childhood Investment by Offspring Genotype](https://academic.oup.com/sf/article-abstract/102/1/310/6989759)
@@ -286,17 +308,22 @@ Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
+###### .
 
 ### [Gene-environment Interactions and School Tracking During Secondary Education: Evidence From the U.S.](https://www.sciencedirect.com/science/article/pii/S0276562421000482)
 
 Fumiya Uchikoshi and Dalton Conley. *Research in Social Stratification and Mobility*.
 
 ###### .
+###### .
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
 Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature Genetics*.
 
+##### <span style="font-size: 8pt; color: #7E7E78;">REPOSITORY</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
+
+###### .
 ###### .
 
 ### [Genome-wide Heritability Estimates For Family Life Course Complexity](https://read.dukeupress.edu/demography/article/58/4/1575/174065/Genome-Wide-Heritability-Estimates-for-Family-Life)
@@ -304,11 +331,13 @@ Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature G
 Zachary Van Winkle and Dalton Conley. *Demography*.
 
 ###### .
+###### .
 
 ### [Public Attitudes Toward Genetic Risk Scoring in Medicine and Beyond](https://www.sciencedirect.com/science/article/pii/S0277953621001283) 
 
 Simone Zhang, Rebecca Johnson, John Novembre, Edward Freeland, Dalton Conley. *Social Science and Medicine*.
 
+###### .
 ###### .
 
 ### [The Production of Inequalities Within Families and Across Generations: The Intergenerational Effects of Birth Order on Educational Attainment](https://academic.oup.com/esr/article/37/4/607/6157419)
@@ -327,11 +356,15 @@ Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Revi
 Andrew McMartin and Dalton Conley.  *International Journal of Epidemiology*.
 
 ###### .
+###### .
 
 ### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
 
 Benjamin Domingue, Sam Trejo, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
 
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
+
+###### .
 ###### .
 
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
@@ -349,16 +382,19 @@ Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Ben
 Sam Trejo and Benjamin Domingue.  *Biodemography and Social Biology*.
 
 ###### .
+###### .
 
 ### [Birth Weight and Development: Bias or Heterogeneity by Polygenic Risk Factors?](https://link.springer.com/article/10.1007/s11113-019-09559-6)
 
 Dalton Conley, Ramina Sotoudeh, and Thomas Laidley. *Population Research and Policy Review*.
 
 ###### .
+###### .
 
 ### [Effects of the Peer Metagenomic Environment on Smoking  Behavior](https://www.pnas.org/doi/10.1073/pnas.1806901116)
 Ramina Sotoudeh, Kathleen Mullan Harris, and Dalton Conley.  *Proceedings of the National Academy of Sciences*.
 
+###### .
 ###### .
 
 ### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
@@ -375,17 +411,22 @@ Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
 Sam Trejo, Daniel Belsky, Jason Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin Domingue. *Sociological Science*.
 
 ###### .
+###### .
 
 ### [The Promise of Genes for Understanding Cause and Effect](https://www.pnas.org/doi/10.1073/pnas.1805585115)
 
 Dalton Conley and Simone Zhang. *Proceedings of the National Academy of Sciences*.
 
 ###### .
+###### .
 
 ### [A Sibling Method for Identifying vQTLs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194541)
 
 Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boardman, and Mark Siegal. *PLOS One*.
 
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode)
+
+##### <span style="font-size: 8pt; color: #7E7E78;">SUMMARY STATISTICS</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](ttps://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip)
 
 </div>
 
