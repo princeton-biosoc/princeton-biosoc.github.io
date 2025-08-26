@@ -2,8 +2,10 @@ name: "biosoc"
 title: "BIOSOC"
 
 navbar:
-  title: "Princeton Biosociology Research Group"
+  title: "Princeton University Biosociology Research Group"
 
 output:
   html_document:
     css: 'styles.css'
+    includes:
+        in_header: header.html

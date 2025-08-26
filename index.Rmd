@@ -5,7 +5,10 @@
 
 # Biosociology Research Group
 
-<img src="files/helix2.png" style="width: 20%">
+###### .
+###### .
+
+<img src="files/helix.svg" style="width: 18%">
 </div>
 
 <!-- 
@@ -51,13 +54,13 @@
 
 <body style="line-height: 1.25;">
 Dalton Conley
-[<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/dalton-conley)
+[<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/dalton-conley)
 <body style="line-height: 2;">
 <h4 style="font-size: 8pt; color: #7E7E78; line-height: .5;">
 HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </h4>      
 
 <body style="line-height: 1.25;">
-Sam Trejo [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.samtrejo.com)
+Sam Trejo [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.samtrejo.com)
 <body style="line-height: 2;">
 <h4 style="font-size: 8pt; color: #7E7E78;">
 ASSISTANT PROFESSOR OF SOCIOLOGY </h4>   
@@ -72,20 +75,20 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </h4>
 
 ###### .
 
-Ha-Joon Chung [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/ha-joon-chung)
+Ha-Joon Chung [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/ha-joon-chung)
 
 
-Ludovico Genovese [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.columbia.edu/content/ludovico-genovese)
+Ludovico Genovese [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.columbia.edu/content/ludovico-genovese)
 
-Tiffany Liu [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/tiffany-liu)
+Tiffany Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/tiffany-liu)
 
-Yuxin Liu [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/yuxin-liu)
+Yuxin Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/yuxin-liu)
 
-Beza Taddess [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/beza-taddess)
+Beza Taddess [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/beza-taddess)
 
-Ruolin Wang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://opr.princeton.edu/people/ruolin-wang)
+Ruolin Wang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/ruolin-wang)
 
-Luyin Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://opr.princeton.edu/people/luyin-zhang)
+Luyin Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/luyin-zhang)
 
 
 ###### .
@@ -98,19 +101,19 @@ Luyin Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://
 
 ###### .
 
-Rebecca Johnson [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.rebeccajohnson.io)
+Rebecca Johnson [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.rebeccajohnson.io)
 
-Byungkyu Lee [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.byungkyulee.com/)
+Byungkyu Lee [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.byungkyulee.com/)
 
-Andrew McMartin [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.princeton.edu/people/andrew-mcmartin)
+Andrew McMartin [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/andrew-mcmartin)
 
-Jinyuan Qi <span style="font-size: 16pt; color: #455ba3;">⟿</span>
+Jinyuan Qi <span style="font-size: 16pt; color: #2C63C9;">⟿</span>
 
-Ramina Sotoudeh [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
+Ramina Sotoudeh [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
 
-Fumiya Uchikoshi [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.wcfia.harvard.edu/people/fumiya-uchikoshi)
+Fumiya Uchikoshi [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.wcfia.harvard.edu/people/fumiya-uchikoshi)
 
-Simone Zhang [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://simonezhang.com/)
+Simone Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://simonezhang.com/)
 
 ###### .
 ###### .
@@ -156,7 +159,7 @@ Completed and ongoing research projects include:
 </ul>
 <br>
 <p style="text-align: justify;">
-During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [Dalton](dconley@princeton.edu) and [Sam](dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
+During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [Dalton](mailto:dconley@princeton.edu) and [Sam](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
 </p>
 
 <!-- 
@@ -180,14 +183,14 @@ During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from
 
 ###### .
 
-### [DNA Reveals the Growing Ancestral Diversity of the United States](https://osf.io/preprints/socarxiv/mdybz_v1)
+### [DNA Reveals the Growing Ancestral Diversity of the United States](www.samtrejo.com)
 
 Sam Trejo and Marissa Thompson. *APC Working Paper*.
 
 ###### .
 ###### .
 
-### [Documenting Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/mdybz_v1)
+### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v1)
 
 Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
 
@@ -223,9 +226,9 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 
 Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">PRE-REGISTRATION</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://osf.io/dj9pt/registrations)
+##### <span style="font-size: 8pt; color: #7E7E78;">PRE-REGISTRATION</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://osf.io/dj9pt/registrations)
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/2025_09_ajs_anc_exp)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/2025_09_ajs_anc_exp)
 
 # \
 
@@ -249,7 +252,7 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 
 Sam Trejo and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/phenotype_differences)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/phenotype_differences)
 
 ###### .
 ###### .
@@ -264,7 +267,7 @@ Kieron Barclay and Dalton Conley.  *American Journal of Sociology*.
 
 Sam Trejo, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
 ###### .
 ###### .
@@ -321,7 +324,7 @@ Fumiya Uchikoshi and Dalton Conley. *Research in Social Stratification and Mobil
 
 Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature Genetics*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPOSITORY</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPOSITORY</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
 
 ###### .
 ###### .
@@ -362,7 +365,7 @@ Andrew McMartin and Dalton Conley.  *International Journal of Epidemiology*.
 
 Benjamin Domingue, Sam Trejo, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
 
 ###### .
 ###### .
@@ -424,9 +427,9 @@ Dalton Conley and Simone Zhang. *Proceedings of the National Academy of Sciences
 
 Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boardman, and Mark Siegal. *PLOS One*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode)
+##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode)
 
-##### <span style="font-size: 8pt; color: #7E7E78;">SUMMARY STATISTICS</span> [<span style="font-size: 16pt; color: #455ba3;">⟿</span>](ttps://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip)
+##### <span style="font-size: 8pt; color: #7E7E78;">SUMMARY STATISTICS</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](ttps://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip)
 
 </div>
 

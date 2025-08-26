@@ -12,20 +12,20 @@
 
 /* Link Colors ____________________________________________________ */
 a:link {
-  color: #3c4f8c;
+  color: #2C63C9;
 }
 
 a:visited {
-  color: #455ba3;
+  color: #2C63C9;
 }
 
 a:hover {
-  color: #455ba3;
+  color: #2C63C9;
   text-decoration: underline;
 }
 
 a:active {
-  color: #455ba3;
+  color: #2C63C9;
 }
 
 
@@ -78,7 +78,7 @@ body{
   font-family: 'Spectral', Garamond, serif;
   font-weight: 400;
   font-size: 12pt;
-  background-color: #e2f1f4; 
+  background-color: #E8F4F9; 
   color: #Black;
   margin: auto;
   max-width: 1325px
