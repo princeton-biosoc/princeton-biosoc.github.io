@@ -84,11 +84,15 @@ Tiffany Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://
 
 Yuxin Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/yuxin-liu)
 
+Vinayak Menon [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.linkedin.com/in/vin-menon)
+
 Beza Taddess [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/beza-taddess)
 
 Ruolin Wang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/ruolin-wang)
 
 Luyin Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/luyin-zhang)
+
+
 
 
 ###### .
@@ -141,7 +145,7 @@ Simone Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https:/
 ###### .
 
 <p style="text-align: justify;">
-The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into sociological and demographic research. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
+The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into social, behavioral, health, and demographic research in humans. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
 </p>
 <br>
 Completed and ongoing research projects include: 
