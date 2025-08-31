@@ -1,6 +1,7 @@
 ---
 title: " "
 pagetitle: "Princeton Biosociology"
+lang: en
 ---
 
 <div style="text-align: center;">
@@ -12,7 +13,7 @@ pagetitle: "Princeton Biosociology"
 ###### .
 ###### .
 
-<img src="files/helix.svg" style="width: 18%">
+<img src="files/helix.svg" style="width: 230px" alt="Helix Logo">
 </div>
 
 <!-- 
@@ -22,25 +23,40 @@ pagetitle: "Princeton Biosociology"
 -->
 
 <style>
-.column-left{
-  float: left;
-  width: 29.5%;
-  text-align: left;
-}
-.column-center{
-  display: inline-block;
-  width: 7.5%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 65%;
-  text-align: left;
-
-}
+  .column-left{
+    float: left;
+    width: 29.5%;
+    text-align: left;
+  }
+  .column-center{
+    display: inline-block;
+    width: 7.5%;
+    text-align: left;
+  }
+  .column-right{
+    float: right;
+    width: 65%;
+    text-align: left;
+  
+  }
+  
+  .full-width-footer {
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    background-color: #E8F4F9;
+    padding: 30px 0;
+    text-align: center;
+    border-top: .5px solid #dee2e6;
+    margin-top: 50px;
+    font-size: 8pt;
+    clear: both;
+  }
+  
+  .full-width-footer a {
+    text-decoration: none;
+  }
+  
 </style>
-
-\
 
 <!-- 
 ********************************************************************************
@@ -57,16 +73,15 @@ pagetitle: "Princeton Biosociology"
 ###### .
 
 <body style="line-height: 1.25;">
-Dalton Conley
-[<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/dalton-conley)
+<a href="https://sociology.princeton.edu/people/dalton-conley)">Dalton Conley <span class="arrow">⟿</span> </a>
 <body style="line-height: 2;">
-<h4 style="font-size: 8pt; color: #7E7E78; line-height: .5;">
+<h4 style="font-size: 8pt; color: #717272; line-height: .9;">
 HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </h4>      
 
 <body style="line-height: 1.25;">
-Sam Trejo [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.samtrejo.com)
+<a href="https://www.samtrejo.com)">Sam Trejo <span class="arrow">⟿</span> </a>
 <body style="line-height: 2;">
-<h4 style="font-size: 8pt; color: #7E7E78;">
+<h4 style="font-size: 8pt; color: #717272;">
 ASSISTANT PROFESSOR OF SOCIOLOGY </h4>   
 
 ###### .
@@ -79,22 +94,21 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </h4>
 
 ###### .
 
-Ha-Joon Chung [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/ha-joon-chung)
+<a href="https://sociology.princeton.edu/people/ha-joon-chung">Ha-Joon Chung <span class="arrow">⟿</span> </a>
 
+<a href="https://sociology.columbia.edu/content/ludovico-genovese">Ludovico Genovese <span class="arrow">⟿</span> </a>
 
-Ludovico Genovese [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.columbia.edu/content/ludovico-genovese)
+<a href="https://sociology.princeton.edu/people/tiffany-liu">Tiffany Liu <span class="arrow">⟿</span> </a>
+ 
+<a href="https://sociology.princeton.edu/people/yuxin-liu">Yuxin Liu <span class="arrow">⟿</span></a>
 
-Tiffany Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/tiffany-liu)
+<a href="https://www.linkedin.com/in/vin-menon">Vinayak Menon <span class="arrow">⟿</span></a>
 
-Yuxin Liu [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/yuxin-liu)
+<a href="https://sociology.princeton.edu/people/beza-taddess">Beza Taddess <span class="arrow">⟿</span></a>
 
-Vinayak Menon [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.linkedin.com/in/vin-menon)
+<a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang <span class="arrow">⟿</span></a>
 
-Beza Taddess [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/beza-taddess)
-
-Ruolin Wang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/ruolin-wang)
-
-Luyin Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://opr.princeton.edu/people/luyin-zhang)
+<a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang <span class="arrow">⟿</span></a>
 
 
 
@@ -108,20 +122,19 @@ Luyin Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
+<a href="https://www.rebeccajohnson.io">Rebecca Johnson <span class="arrow">⟿</span></a>
 
-Rebecca Johnson [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.rebeccajohnson.io)
+<a href="https://www.byungkyulee.com/">Byungkyu Lee <span class="arrow">⟿</span></a>
 
-Byungkyu Lee [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.byungkyulee.com/)
+<a href="https://sociology.princeton.edu/people/andrew-mcmartin">Andrew McMartin <span class="arrow">⟿</span></a>
 
-Andrew McMartin [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.princeton.edu/people/andrew-mcmartin)
+Jinyuan Qi <span class="arrow">⟿</span>
 
-Jinyuan Qi <span style="font-size: 16pt; color: #2C63C9;">⟿</span>
+<a href="https://sociology.yale.edu/people/ramina-sotoudeh">Ramina Sotoudeh <span class="arrow">⟿</span></a>
 
-Ramina Sotoudeh [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://sociology.yale.edu/people/ramina-sotoudeh)
+<a href="https://www.wcfia.harvard.edu/people/fumiya-uchikoshi">Fumiya Uchikoshi <span class="arrow">⟿</span></a>
 
-Fumiya Uchikoshi [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.wcfia.harvard.edu/people/fumiya-uchikoshi)
-
-Simone Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://simonezhang.com/)
+<a href="https://simonezhang.com/">Simone Zhang <span class="arrow">⟿</span></a>
 
 ###### .
 ###### .
@@ -148,9 +161,8 @@ Simone Zhang [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https:/
 ###### .
 ###### .
 
-<p style="text-align: justify;">
-The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into social, behavioral, health, and demographic research in humans. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a wide range of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
-</p>
+The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into social, behavioral, health, and demographic research in humans. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a variety of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
+<br>
 <br>
 Completed and ongoing research projects include: 
 <br>
@@ -166,9 +178,7 @@ Completed and ongoing research projects include:
 <li>Grappling with ethical and regulatory questions raised by rapidly emerging genomic tools</li>
 </ul>
 <br>
-<p style="text-align: justify;">
-During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [Dalton](mailto:dconley@princeton.edu) and [Sam](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
-</p>
+During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
 
 <!-- 
 ********************************************************************************
@@ -187,7 +197,7 @@ During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from
 ###### .
 
 ##### Working Papers
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -226,7 +236,7 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 # \
 
 ##### 2026
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -234,15 +244,22 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 
 Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">PRE-REGISTRATION</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://osf.io/dj9pt/registrations)
+<a href="https://osf.io/dj9pt/registrations" style="text-decoration-color: #717272;"> <span style="font-size: 8pt; color: #717272;   letter-spacing: 2px;">PRE-REGISTRATION</span> <span class="arrow">⟿</span></a>
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/2025_09_ajs_anc_exp)
+<a href="https://github.com/sam-trejo/2025_09_ajs_anc_exp" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
 # \
 
 ##### 2025
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
+###### .
+
+### [Genetics, Stratification, and Meritocracy](https://academic.oup.com/edited-volume/45896/chapter/529712677) 
+
+Fumiya Uchikoshi and Dalton Conley. *Oxford Handbook of Social Stratification*.
+
+###### .
 ###### .
 
 ### [Does Genetic Predisposition Explain the “Immigrant Health Paradox”? Evidence for Non-Hispanic White Older Adults in the US](https://www.mdpi.com/3042-4372/1/1/4)
@@ -252,7 +269,7 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 # \
 
 ##### 2024
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -260,7 +277,7 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 
 Sam Trejo and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/phenotype_differences)
+<a href="https://github.com/sam-trejo/phenotype_differences" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
 ###### .
 ###### .
@@ -275,7 +292,7 @@ Kieron Barclay and Dalton Conley.  *American Journal of Sociology*.
 
 Sam Trejo, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
+<a href="https://github.com/sam-trejo/2024_03_sciadv_flint"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
 ###### .
 ###### .
@@ -287,7 +304,7 @@ Sam Trejo. *Social Forces*.
 # \
 
 ##### 2023
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -305,7 +322,7 @@ Asta Breinholt and Dalton Conley.  *Social Forces*.
 # \
 
 ##### 2022
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -316,7 +333,7 @@ Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
 # \
 
 ##### 2021
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 ###### .
@@ -332,7 +349,7 @@ Fumiya Uchikoshi and Dalton Conley. *Research in Social Stratification and Mobil
 
 Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature Genetics*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPOSITORY</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
+<a href="https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPOSITORY</span> <span class="arrow">⟿</span></a>
 
 ###### .
 ###### .
@@ -358,7 +375,7 @@ Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Revi
 # \
 
 ##### 2020
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -373,7 +390,7 @@ Andrew McMartin and Dalton Conley.  *International Journal of Epidemiology*.
 
 Benjamin Domingue, Sam Trejo, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
+<a href="https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
 ###### .
 ###### .
@@ -385,7 +402,7 @@ Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Ben
 # \
 
 ##### 2019
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -414,7 +431,7 @@ Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
 # \
 
 ##### 2018
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #7E7E78; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
@@ -435,10 +452,42 @@ Dalton Conley and Simone Zhang. *Proceedings of the National Academy of Sciences
 
 Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boardman, and Mark Siegal. *PLOS One*.
 
-##### <span style="font-size: 8pt; color: #7E7E78;">REPLICATION CODE</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode)
+<a href="https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
-##### <span style="font-size: 8pt; color: #7E7E78;">SUMMARY STATISTICS</span> [<span style="font-size: 16pt; color: #2C63C9;">⟿</span>](ttps://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip)
+<a href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">SUMMARY STATISTICS</span> <span class="arrow">⟿</span></a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
+
+
+<div style="clear: both;"></div>
+
+<footer class="full-width-footer">
+    <a href="https://www.princeton.edu/">
+      <img src="files/PU_lockup (linear).png" style="width: 400px" alt="Princeton University">
+      <span class="arrow">⟿</span>
+    </a>
+    <br>
+    <br>
+    <a href="https://digital.accessibility.princeton.edu/help">Accessibility Help <span class="arrow">⟿</span></a>
+    <br>
+    <br>
+    <p>&copy; `r format(Sys.Date(), "%Y")` The Trustees of Princeton University.</p>
+</footer>
+
+
+
+
+
+
+
+
 
 
