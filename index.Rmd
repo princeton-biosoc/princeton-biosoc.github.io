@@ -68,21 +68,21 @@ lang: en
 
 ## FACULTY
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
 <body style="line-height: 1.25;">
 <a href="https://sociology.princeton.edu/people/dalton-conley)">Dalton Conley <span class="arrow">⟿</span> </a>
 <body style="line-height: 2;">
-<h4 style="font-size: 8pt; color: #717272; line-height: .9;">
-HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </h4>      
+<p style="font-size: 8pt; font-weight: 500; letter-spacing: 1.5px; line-height: .9; color: #717272;">
+HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </p>      
 
 <body style="line-height: 1.25;">
 <a href="https://www.samtrejo.com)">Sam Trejo <span class="arrow">⟿</span> </a>
 <body style="line-height: 2;">
-<h4 style="font-size: 8pt; color: #717272;">
-ASSISTANT PROFESSOR OF SOCIOLOGY </h4>   
+<p style="font-size: 8pt; font-weight: 500; letter-spacing: 1.5px; line-height: .9; color: #717272;">
+ASSISTANT PROFESSOR OF SOCIOLOGY </p>   
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -90,7 +90,7 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </h4>
 
 ## DOCTORAL STUDENTS
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -119,7 +119,7 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </h4>
 
 ## ALUMNI & AFFILIATES
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 <a href="https://www.rebeccajohnson.io">Rebecca Johnson <span class="arrow">⟿</span></a>
