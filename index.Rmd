@@ -155,7 +155,7 @@ Jinyuan Qi <span class="arrow">⟿</span>
 
 ## WHAT WE STUDY
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -190,14 +190,14 @@ During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from
 
 ## RESEARCH
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
 ##### Working Papers
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -236,7 +236,7 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2026
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -251,7 +251,7 @@ Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2025
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -269,7 +269,7 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2024
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -304,7 +304,7 @@ Sam Trejo. *Social Forces*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2023
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -322,7 +322,7 @@ Asta Breinholt and Dalton Conley.  *Social Forces*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2022
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -333,7 +333,7 @@ Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2021
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -375,7 +375,7 @@ Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Revi
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2020
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -402,7 +402,7 @@ Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Ben
 <div style="font-size: 45pt;"> <br> </div>
 
 ##### 2019
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
@@ -431,7 +431,7 @@ Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
 <div style="font-size: 45px;"> <br> </div>
 
 ##### 2018
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
