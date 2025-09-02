@@ -55,26 +55,18 @@ h2 {
 }
 
 h3 {
-  font-family: 'Spectral', Garamond, serif;
-  font-size: 14pt;
-  font-weight: 600;
-  color: Black;
-}
-
-h4{
-  font-family: 'Sometype Mono', monospace;
-  font-size: 18pt;
-  font-weight: 500;
-  color: Black;
-  letter-spacing: 2px;
-}
-
-h5{
   font-family: 'Sometype Mono', monospace;
   font-size: 14pt;
   font-weight: 500;
   color: #717272;
   letter-spacing: 2px;
+}
+
+h4{
+  font-family: 'Spectral', Garamond, serif;
+  font-size: 14pt;
+  font-weight: 600;
+  color: Black;
 }
 
 body{
