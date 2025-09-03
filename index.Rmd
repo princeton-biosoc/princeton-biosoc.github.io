@@ -248,9 +248,6 @@ Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *
 
 <div style="font-size: 45px;"> <br> </div>
 
-A tale of two sociogenomics: shall the twain ever meet?
-
-
 ### 2025
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -259,6 +256,13 @@ A tale of two sociogenomics: shall the twain ever meet?
 #### [A Tale of Two Sociogenomics: Shall the Twain Ever Meet?](https://doi.org/10.1016/j.tig.2025.08.001) 
 
 Gene Robinson and Dalton Conley. *Trends in Genetics*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Genetics, Stratification, and Meritocracy](https://academic.oup.com/edited-volume/45896/chapter/529712677) 
+
+Fumiya Uchikoshi and Dalton Conley. *Oxford Handbook of Social Stratification*.
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
