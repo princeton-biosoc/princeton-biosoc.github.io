@@ -1,7 +1,496 @@
 ---
-title: "Princeton Biosociology!"
+title: " "
+pagetitle: "Princeton Biosociology"
+lang: en
 ---
 
-This is John.
+<div style="text-align: center;">
+  
+# Princeton University 
 
-<img src="files/helix.jpeg" style="width:50%">
+# Biosociology Research Group
+
+<br>
+
+<img src="files/helix.svg" style="width: 230px" alt="Helix Logo">
+</div>
+<br>
+
+<!-- 
+********************************************************************************
+
+********************************************************************************
+-->
+
+<style>
+  .column-left{
+    float: left;
+    width: 29.5%;
+    text-align: left;
+  }
+  .column-center{
+    display: inline-block;
+    width: 7.5%;
+    text-align: left;
+  }
+  .column-right{
+    float: right;
+    width: 65%;
+    text-align: left;
+  
+  }
+  
+  .full-width-footer {
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    background-color: #E8F4F9;
+    padding: 30px 0;
+    text-align: center;
+    border-top: .5px solid #dee2e6;
+    margin-top: 50px;
+    font-size: 8pt;
+    clear: both;
+  }
+  
+  .full-width-footer a {
+    text-decoration: none;
+  }
+  
+</style>
+
+<!-- 
+********************************************************************************
+
+********************************************************************************
+-->
+
+<div class="column-left">
+
+## FACULTY
+
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+<body style="line-height: 1.25;">
+<a href="https://sociology.princeton.edu/people/dalton-conley)">Dalton Conley <span class="arrow">⟿</span> </a>
+<body style="line-height: 2;">
+<p style="font-size: 8pt; font-weight: 500; letter-spacing: 1.5px; line-height: .9; color: #717272;">
+HENRY PUTNAM UNIVERSITY PROFESSOR OF SOCIOLOGY </p>      
+
+<body style="line-height: 1.25;">
+<a href="https://www.samtrejo.com)">Sam Trejo <span class="arrow">⟿</span> </a>
+<body style="line-height: 2;">
+<p style="font-size: 8pt; font-weight: 500; letter-spacing: 1.5px; line-height: .9; color: #717272;">
+ASSISTANT PROFESSOR OF SOCIOLOGY </p>   
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+## DOCTORAL STUDENTS
+
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+<a href="https://sociology.princeton.edu/people/ha-joon-chung">Ha-Joon Chung <span class="arrow">⟿</span> </a>
+
+<a href="https://sociology.columbia.edu/content/ludovico-genovese">Ludovico Genovese <span class="arrow">⟿</span> </a>
+
+<a href="https://sociology.princeton.edu/people/tiffany-liu">Tiffany Liu <span class="arrow">⟿</span> </a>
+ 
+<a href="https://sociology.princeton.edu/people/yuxin-liu">Yuxin Liu <span class="arrow">⟿</span></a>
+
+<a href="https://www.linkedin.com/in/vin-menon">Vinayak Menon <span class="arrow">⟿</span></a>
+
+<a href="https://sociology.princeton.edu/people/beza-taddess">Beza Taddess <span class="arrow">⟿</span></a>
+
+<a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang <span class="arrow">⟿</span></a>
+
+<a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang <span class="arrow">⟿</span></a>
+
+
+
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+## ALUMNI & AFFILIATES
+
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+<a href="https://www.rebeccajohnson.io">Rebecca Johnson <span class="arrow">⟿</span></a>
+
+<a href="https://www.byungkyulee.com/">Byungkyu Lee <span class="arrow">⟿</span></a>
+
+<a href="https://sociology.princeton.edu/people/andrew-mcmartin">Andrew McMartin <span class="arrow">⟿</span></a>
+
+Jinyuan Qi <span class="arrow">⟿</span>
+
+<a href="https://sociology.yale.edu/people/ramina-sotoudeh">Ramina Sotoudeh <span class="arrow">⟿</span></a>
+
+<a href="https://www.wcfia.harvard.edu/people/fumiya-uchikoshi">Fumiya Uchikoshi <span class="arrow">⟿</span></a>
+
+<a href="https://simonezhang.com/">Simone Zhang <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+<!-- 
+********************************************************************************
+
+********************************************************************************
+-->
+
+</div>
+
+<div class="column-center">
+</div>
+
+<div class="column-right">
+
+## WHAT WE STUDY
+
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into social, behavioral, health, and demographic research in humans. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a variety of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
+<br>
+<br>
+Completed and ongoing research projects include: 
+<br>
+<br>
+<ul>
+<li> Integrating <em>polygenic scores</em> – individual-level measures which summarize genetic</li> predisposition widely dispersed across the genome</li> – into social scientific models of human behavior
+<li>Developing and applying novel methods for detecting gene-environment interactions for complex traits</li>
+<li>Identifying indirect genetic effects among family members and social peers  (e.g., genetic nurture)</li>
+<li>Exploring socioeconomic gradients in epigenetic aging at different stages of the life-course</li>
+<li>Drawing on genotyped sibling pairs and/or parent-child pair data to estimate causal genetic effects</li>
+<li>Documenting historical and contemporary patterns of genetic and phenotypic assortative mating</li>
+<li>Leveraging <em>genetic similarity proportions</em> – also known as <em>genetic ancestry proportions</em> – in the study of racial/ethnic identity formation and demographic change </li>
+<li>Grappling with ethical and regulatory questions raised by rapidly emerging genomic tools</li>
+</ul>
+<br>
+During the Fall 2025 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
+
+<!-- 
+********************************************************************************
+
+********************************************************************************
+-->
+
+<div style="font-size: 45px;"> <br> </div>
+
+## RESEARCH
+
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+### Working Papers
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [DNA Reveals the Growing Ancestral Diversity of the United States](www.samtrejo.com)
+
+Sam Trejo and Marissa Thompson. *APC Working Paper*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v1)
+
+Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
+
+Luyin Zhang and Sam Trejo. *SocArXiv*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Within-Family GWAS does not Ameliorate the Decline in Prediction Accuracy across Populations](https://www.biorxiv.org/content/10.1101/2024.12.12.628188v1)
+
+Luyin Zhang and Dalton Conley. *bioRxiv*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
+
+Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2026
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
+
+Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+
+<a href="https://osf.io/dj9pt/registrations" style="text-decoration-color: #717272;"> <span style="font-size: 8pt; color: #717272;   letter-spacing: 2px;">PRE-REGISTRATION</span> <span class="arrow">⟿</span></a>
+
+<a href="https://github.com/sam-trejo/2025_09_ajs_anc_exp" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 45px;"> <br> </div>
+
+A tale of two sociogenomics: shall the twain ever meet?
+
+
+### 2025
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [A Tale of Two Sociogenomics: Shall the Twain Ever Meet?](https://doi.org/10.1016/j.tig.2025.08.001) 
+
+Gene Robinson and Dalton Conley. *Trends in Genetics*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Does Genetic Predisposition Explain the “Immigrant Health Paradox”? Evidence for Non-Hispanic White Older Adults in the US](https://www.mdpi.com/3042-4372/1/1/4)
+
+Zoya Gubernskaya and Dalton Conley. *Populations*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2024
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
+
+Sam Trejo and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
+
+<a href="https://github.com/sam-trejo/phenotype_differences" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Influence of Extended Kin on Educational Achievement: An Examination of Cousin Order and Cousin Group Size](https://www.journals.uchicago.edu/doi/abs/10.1086/729812)
+Kieron Barclay and Dalton Conley.  *American Journal of Sociology*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.science.org/doi/10.1126/sciadv.adk4737)
+
+Sam Trejo, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
+
+<a href="https://github.com/sam-trejo/2024_03_sciadv_flint"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://doi.org/10.1093/sf/soae018)
+
+Sam Trejo. *Social Forces*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2023
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
+
+Sam Trejo and Daphne Martschenko. *Behavioral and Brain Sciences*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Child-Driven Parenting: Differential Early Childhood Investment by Offspring Genotype](https://academic.oup.com/sf/article-abstract/102/1/310/6989759)
+
+Asta Breinholt and Dalton Conley.  *Social Forces*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2022
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Polygenic Scores for Plasticity: A New Tool for Studying Gene-Environment Interplay](https://read.dukeupress.edu/demography/article/59/3/1045/302879/Polygenic-Scores-for-Plasticity-A-New-Tool-for)
+
+Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2021
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Gene-environment Interactions and School Tracking During Secondary Education: Evidence From the U.S.](https://www.sciencedirect.com/science/article/pii/S0276562421000482)
+
+Fumiya Uchikoshi and Dalton Conley. *Research in Social Stratification and Mobility*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
+
+Daphne Martschenko, Benjamin Domingue, Lucas Matthews, and Sam Trejo.  *Nature Genetics*.
+
+<a href="https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPOSITORY</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Genome-wide Heritability Estimates For Family Life Course Complexity](https://read.dukeupress.edu/demography/article/58/4/1575/174065/Genome-Wide-Heritability-Estimates-for-Family-Life)
+
+Zachary Van Winkle and Dalton Conley. *Demography*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Public Attitudes Toward Genetic Risk Scoring in Medicine and Beyond](https://www.sciencedirect.com/science/article/pii/S0277953621001283) 
+
+Simone Zhang, Rebecca Johnson, John Novembre, Edward Freeland, Dalton Conley. *Social Science and Medicine*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Production of Inequalities Within Families and Across Generations: The Intergenerational Effects of Birth Order on Educational Attainment](https://academic.oup.com/esr/article/37/4/607/6157419)
+
+Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Review*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2020
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Mendelian Randomization and Education — Challenges Remain](https://academic.oup.com/ije/article/49/4/1193/5919240)
+
+Andrew McMartin and Dalton Conley.  *International Journal of Epidemiology*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
+
+Benjamin Domingue, Sam Trejo, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
+
+<a href="https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
+
+Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin Domingue.  *Psychological Science*.
+
+<div style="font-size: 45pt;"> <br> </div>
+
+### 2019
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
+Sam Trejo and Benjamin Domingue.  *Biodemography and Social Biology*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Birth Weight and Development: Bias or Heterogeneity by Polygenic Risk Factors?](https://link.springer.com/article/10.1007/s11113-019-09559-6)
+
+Dalton Conley, Ramina Sotoudeh, and Thomas Laidley. *Population Research and Policy Review*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Effects of the Peer Metagenomic Environment on Smoking  Behavior](https://www.pnas.org/doi/10.1073/pnas.1806901116)
+Ramina Sotoudeh, Kathleen Mullan Harris, and Dalton Conley.  *Proceedings of the National Academy of Sciences*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
+Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
+
+<div style="font-size: 45px;"> <br> </div>
+
+### 2018
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
+
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
+Sam Trejo, Daniel Belsky, Jason Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin Domingue. *Sociological Science*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Promise of Genes for Understanding Cause and Effect](https://www.pnas.org/doi/10.1073/pnas.1805585115)
+
+Dalton Conley and Simone Zhang. *Proceedings of the National Academy of Sciences*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [A Sibling Method for Identifying vQTLs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194541)
+
+Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boardman, and Mark Siegal. *PLOS One*.
+
+<a href="https://github.com/rebeccajohnson88/siblingSD_simulation_replicationcode" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<a href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/A%20sibling%20method%20for%20identifying%20vQTLs.zip" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">SUMMARY STATISTICS</span> <span class="arrow">⟿</span></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+
+<div style="clear: both;"></div>
+
+<footer class="full-width-footer">
+    <a href="https://www.princeton.edu/">
+      <img src="files/PU_lockup (linear).png" style="width: 400px" alt="Princeton University">
+      <span class="arrow">⟿</span>
+    </a>
+    <br>
+    <br>
+    <br>
+    <a href="https://digital.accessibility.princeton.edu/help" style="font-size: 12pt;">Accessibility Help <span class="arrow">⟿</span></a>
+    <br>
+    <br>
+    <br>
+    <p>&copy; `r format(Sys.Date(), "%Y")` The Trustees of Princeton University.</p>
+</footer>
+
+
+
+
+
+
+
+
+
+
