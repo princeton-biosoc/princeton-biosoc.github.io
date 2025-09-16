@@ -80,7 +80,7 @@ body{
 }
 
 body .main-container {
-  max-width: 450px;
+  min-width: 450px;
   max-width: 1500px;
   width: 95%;
 }
