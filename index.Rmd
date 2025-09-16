@@ -110,9 +110,6 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 
 <a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang <span class="arrow">⟿</span></a>
 
-
-
-
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -206,7 +203,7 @@ Sam Trejo and Marissa Thompson. *APC Working Paper*.
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
-#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v1)
+#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
 
 Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
 
