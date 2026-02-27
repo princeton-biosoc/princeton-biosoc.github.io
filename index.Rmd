@@ -4,6 +4,9 @@ pagetitle: "Princeton Biosociology"
 lang: en
 ---
 
+<!-- ===================== -->
+<!-- Header / Title Block -->
+<!-- ===================== -->
 <div style="text-align: center;">
   
 # Princeton University 
@@ -18,10 +21,13 @@ lang: en
 
 <!-- 
 ********************************************************************************
-
+Section Divider
 ********************************************************************************
 -->
 
+<!-- ===================== -->
+<!-- Custom CSS Layout -->
+<!-- ===================== -->
 <style>
   .column-left{
     float: left;
@@ -60,10 +66,13 @@ lang: en
 
 <!-- 
 ********************************************************************************
-
+Section Divider
 ********************************************************************************
 -->
 
+<!-- ===================== -->
+<!-- Left Column: People -->
+<!-- ===================== -->
 <div class="column-left">
 
 ## FACULTY
@@ -72,6 +81,7 @@ lang: en
 
 <div style="font-size: 10pt;"> <br> </div>
 
+<!-- Faculty list -->
 <body style="line-height: 1.25;">
 <a href="https://sociology.princeton.edu/people/dalton-conley">Dalton Conley<span class="arrow">⟿</span> </a>
 <body style="line-height: 2;">
@@ -94,6 +104,7 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 
 <div style="font-size: 10pt;"> <br> </div>
 
+<!-- Doctoral students list -->
 <a href="https://sociology.princeton.edu/people/ha-joon-chung">Ha-Joon Chung <span class="arrow">⟿</span> </a>
 
 <a href="https://sociology.columbia.edu/content/ludovico-genovese">Ludovico Genovese <span class="arrow">⟿</span> </a>
@@ -119,6 +130,8 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 10pt;"> <br> </div>
+
+<!-- Alumni and affiliates -->
 <a href="https://www.rebeccajohnson.io">Rebecca Johnson <span class="arrow">⟿</span></a>
 
 <a href="https://www.byungkyulee.com/">Byungkyu Lee <span class="arrow">⟿</span></a>
@@ -139,15 +152,21 @@ Jinyuan Qi <span class="arrow">⟿</span>
 
 <!-- 
 ********************************************************************************
-
+Section Divider
 ********************************************************************************
 -->
 
 </div>
 
+<!-- ===================== -->
+<!-- Spacer Column -->
+<!-- ===================== -->
 <div class="column-center">
 </div>
 
+<!-- ===================== -->
+<!-- Right Column: Content -->
+<!-- ===================== -->
 <div class="column-right">
 
 ## WHAT WE STUDY
@@ -156,12 +175,16 @@ Jinyuan Qi <span class="arrow">⟿</span>
 
 <div style="font-size: 10pt;"> <br> </div>
 
+<!-- Lab description -->
 The Princeton University Biosociology Research Group was founded by Professor Dalton Conley in 2016, and Professor Sam Trejo joined in 2021. Broadly, the research lab seeks to thoughtfully integrate genomic data and other novel biomarkers into social, behavioral, health, and demographic research in humans. A key substantive focus of the lab is the complex ways in which social and biological factors interact to shape educational, behavioral, and health outcomes across the life-course. Lab members have access to a variety of restricted-use genomic data sources, ranging from in-depth longitudinal studies to large-scale biobanks. Although the lab has a special focus on the analysis of genotype and/or DNA sequence data, its members utilize various types of other biological data (e.g., DNAm, CRP, and other blood-based biomarkers) to conduct a wide range of biosocial analyses.
 <br>
 <br>
+
 Completed and ongoing research projects include: 
 <br>
 <br>
+
+<!-- Research agenda list -->
 <ul>
 <li> Integrating <em>polygenic scores</em> – individual-level measures which summarize genetic</li> predisposition widely dispersed across the genome</li> – into social scientific models of human behavior
 <li>Developing and applying novel methods for detecting gene-environment interactions for complex traits</li>
@@ -173,11 +196,13 @@ Completed and ongoing research projects include:
 <li>Grappling with ethical and regulatory questions raised by rapidly emerging genomic tools</li>
 </ul>
 <br>
+
+<!-- Meeting info -->
 During the Spring 2026 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
 
 <!-- 
 ********************************************************************************
-
+Section Divider
 ********************************************************************************
 -->
 
@@ -191,6 +216,9 @@ During the Spring 2026 semester, lab meetings will be held weekly on Tuesdays fr
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
+<!-- ===================== -->
+<!-- Working Papers -->
+<!-- ===================== -->
 ### Working Papers
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -223,6 +251,9 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2026 Publications -->
+<!-- ===================== -->
 ### 2026
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -254,6 +285,9 @@ Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2025 Publications -->
+<!-- ===================== -->
 ### 2025
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -279,6 +313,9 @@ Zoya Gubernskaya and Dalton Conley. *Populations*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2024 Publications -->
+<!-- ===================== -->
 ### 2024
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -314,6 +351,9 @@ Sam Trejo. *Social Forces*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2023 Publications -->
+<!-- ===================== -->
 ### 2023
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -332,6 +372,9 @@ Asta Breinholt and Dalton Conley.  *Social Forces*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2022 Publications -->
+<!-- ===================== -->
 ### 2022
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -343,6 +386,9 @@ Rebecca Johnson, Ramina Sotoudeh, and Dalton Conley. *Demography*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2021 Publications -->
+<!-- ===================== -->
 ### 2021
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -385,6 +431,9 @@ Kieron Barclay, Torkild Lyngstad, and Dalton Conley. *European Sociological Revi
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2020 Publications -->
+<!-- ===================== -->
 ### 2020
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -412,6 +461,9 @@ Emma Armstrong-Carter, Sam Trejo, Liam Hill, Kirsty Crossley, Dan Mason, and Ben
 
 <div style="font-size: 45pt;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2019 Publications -->
+<!-- ===================== -->
 ### 2019
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -441,6 +493,9 @@ Daphne Martschenko, Sam Trejo, and Benjamin Domingue.  *AERA Open*.
 
 <div style="font-size: 45px;"> <br> </div>
 
+<!-- ===================== -->
+<!-- 2018 Publications -->
+<!-- ===================== -->
 ### 2018
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
@@ -477,9 +532,12 @@ Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boar
 <br>
 </div>
 
-
+<!-- Clear floats before footer -->
 <div style="clear: both;"></div>
 
+<!-- ===================== -->
+<!-- Footer -->
+<!-- ===================== -->
 <footer class="full-width-footer">
     <a href="https://www.princeton.edu/">
       <img src="files/PU_lockup (linear).png" style="width: 400px" alt="Princeton University">
@@ -494,13 +552,3 @@ Dalton Conley, Rebecca Johnson, Benjamin Domingue, Christopher Dawes, Jason Boar
     <br>
     <p>&copy; `r format(Sys.Date(), "%Y")` The Trustees of Princeton University.</p>
 </footer>
-
-
-
-
-
-
-
-
-
-
