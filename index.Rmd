@@ -242,13 +242,6 @@ Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
 
 Luyin Zhang and Dalton Conley. *bioRxiv*.
 
-<div style="font-size: 10pt;"> <br> </div>
-<div style="font-size: 10pt;"> <br> </div>
-
-#### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
-
-Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
-
 <div style="font-size: 45px;"> <br> </div>
 
 <!-- ===================== -->
@@ -257,6 +250,13 @@ Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *bioRxiv*.
 ### 2026
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
+
+Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. Forthcoming at *Proceedings of the National Academy of Sciences*.
+
+<div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
