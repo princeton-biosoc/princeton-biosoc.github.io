@@ -252,6 +252,13 @@ Luyin Zhang and Dalton Conley. *bioRxiv*.
 
 <div style="font-size: 10pt;"> <br> </div>
 
+#### [The Early Origins of Biological Aging: Maternal Income, Education, and DNA Methylation Patterns at Ages 9-15](https://www.bezataddess.com/)
+
+Beza Taddess. Forthcoming at *Demography*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
 #### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
 Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. Forthcoming at *Proceedings of the National Academy of Sciences*.
