@@ -259,13 +259,6 @@ Beza Taddess. Forthcoming at *Demography*.
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
-#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
-
-Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. Forthcoming at *Proceedings of the National Academy of Sciences*.
-
-<div style="font-size: 10pt;"> <br> </div>
-<div style="font-size: 10pt;"> <br> </div>
-
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
 Luyin Zhang and Sam Trejo. Forthcoming at *Demography*.
@@ -275,16 +268,23 @@ Luyin Zhang and Sam Trejo. Forthcoming at *Demography*.
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
+#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.pnas.org/doi/10.1073/pnas.2525790123)
+
+Ramina Sotoudeh, Sam Trejo, Arbel Harpak, and Dalton Conley. *Proceedings of the National Academy of Sciences*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
 #### [US Black Women’s Health Before and After the COVID-19 Pandemic: Socioeconomic and Temporal Patterns](https://www.ajph.org/doi/10.2105/AJPH.2025.308348)
 
-Beza Taddess, Jolene Tan, and Sanyu Mojola. Forthcoming at *American Journal of Public Health*.
+Beza Taddess, Jolene Tan, and Sanyu Mojola. *American Journal of Public Health*.
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
-#### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
+#### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://www.journals.uchicago.edu/doi/10.1086/740028)
 
-Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. *American Journal of Sociology*.
 
 <a href="https://osf.io/dj9pt/registrations" style="text-decoration-color: #717272;"> <span style="font-size: 8pt; color: #717272;   letter-spacing: 2px;">PRE-REGISTRATION</span> <span class="arrow">⟿</span></a>
 
