@@ -119,6 +119,8 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 
 <a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang <span class="arrow">⟿</span></a>
 
+<a href="https://sociology.princeton.edu/people/wesley-wang">Wesley Wang <span class="arrow">⟿</span></a>
+
 <a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang <span class="arrow">⟿</span></a>
 
 <div style="font-size: 10pt;"> <br> </div>
@@ -198,7 +200,7 @@ Completed and ongoing research projects include:
 <br>
 
 <!-- Meeting info -->
-During the Spring 2026 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
+During the Fall 2026 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
 
 <!-- 
 ********************************************************************************
@@ -231,13 +233,6 @@ Sam Trejo and Marissa Thompson. *APC Working Paper*.
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
-#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
-
-Beza Taddess, Luyin Zhang, and Sam Trejo. *SocArXiv*.
-
-<div style="font-size: 10pt;"> <br> </div>
-<div style="font-size: 10pt;"> <br> </div>
-
 #### [Within-Family GWAS does not Ameliorate the Decline in Prediction Accuracy across Populations](https://www.biorxiv.org/content/10.1101/2024.12.12.628188v1)
 
 Luyin Zhang and Dalton Conley. *bioRxiv*.
@@ -250,6 +245,22 @@ Luyin Zhang and Dalton Conley. *bioRxiv*.
 ### 2026
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [What Does It Mean to Be Black? Experimental Evidence on the Situational Deployment of Racial Schemas](https://osf.io/preprints/socarxiv/8tnrk_v1)
+
+Marissa Thompson, AJ Alvero, Sam Trejo, and Daphne Martschenko. Forthcoming at *Sociology of Race and Ethnicity*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
+
+Beza Taddess, Luyin Zhang, and Sam Trejo. Forthcoming at *Sociological Science*.
+
+<a href="https://github.com/luyin-z/attractiveness_penalties" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
 #### [The Early Origins of Biological Aging: Maternal Income, Education, and DNA Methylation Patterns at Ages 9-15](https://www.bezataddess.com/)
