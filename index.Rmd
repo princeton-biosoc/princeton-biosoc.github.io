@@ -105,23 +105,23 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 <div style="font-size: 10pt;"> <br> </div>
 
 <!-- Doctoral students list -->
-<a href="https://sociology.princeton.edu/people/ha-joon-chung">Ha-Joon Chung <span class="arrow">⟿</span> </a>
+<a href="https://sociology.princeton.edu/people/ha-joon-chung">Ha-Joon Chung<span class="arrow">⟿</span> </a>
 
-<a href="https://sociology.columbia.edu/content/ludovico-genovese">Ludovico Genovese <span class="arrow">⟿</span> </a>
+<a href="https://sociology.columbia.edu/content/ludovico-genovese">Ludovico Genovese<span class="arrow">⟿</span> </a>
 
-<a href="https://sociology.princeton.edu/people/tiffany-liu">Tiffany Liu <span class="arrow">⟿</span> </a>
+<a href="https://sociology.princeton.edu/people/tiffany-liu">Tiffany Liu<span class="arrow">⟿</span> </a>
  
-<a href="https://sociology.princeton.edu/people/yuxin-liu">Yuxin Liu <span class="arrow">⟿</span></a>
+<a href="https://sociology.princeton.edu/people/yuxin-liu">Yuxin Liu<span class="arrow">⟿</span></a>
 
-<a href="https://www.linkedin.com/in/vin-menon">Vinayak Menon <span class="arrow">⟿</span></a>
+<a href="https://www.linkedin.com/in/vin-menon">Vinayak Menon<span class="arrow">⟿</span></a>
 
 <a href="https://sociology.princeton.edu/people/beza-taddess">Beza Taddess <span class="arrow">⟿</span></a>
 
-<a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang <span class="arrow">⟿</span></a>
+<a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang<span class="arrow">⟿</span></a>
 
-<a href="https://sociology.princeton.edu/people/wesley-wang">Wesley Wang <span class="arrow">⟿</span></a>
+<a href="https://sociology.princeton.edu/people/wesley-wang">Wesley Wang<span class="arrow">⟿</span></a>
 
-<a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang <span class="arrow">⟿</span></a>
+<a href="https://opr.princeton.edu/people/luyin-zhang">Luyin Zhang<span class="arrow">⟿</span></a>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -134,19 +134,19 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 <div style="font-size: 10pt;"> <br> </div>
 
 <!-- Alumni and affiliates -->
-<a href="https://www.rebeccajohnson.io">Rebecca Johnson <span class="arrow">⟿</span></a>
+<a href="https://www.rebeccajohnson.io">Rebecca Johnson<span class="arrow">⟿</span></a>
 
-<a href="https://www.byungkyulee.com/">Byungkyu Lee <span class="arrow">⟿</span></a>
+<a href="https://www.byungkyulee.com/">Byungkyu Lee<span class="arrow">⟿</span></a>
 
-<a href="https://sociology.princeton.edu/people/andrew-mcmartin">Andrew McMartin <span class="arrow">⟿</span></a>
+<a href="https://sociology.princeton.edu/people/andrew-mcmartin">Andrew McMartin<span class="arrow">⟿</span></a>
 
-Jinyuan Qi <span class="arrow">⟿</span>
+Jinyuan Qi<span class="arrow">⟿</span>
 
-<a href="https://sociology.yale.edu/people/ramina-sotoudeh">Ramina Sotoudeh <span class="arrow">⟿</span></a>
+<a href="https://sociology.yale.edu/people/ramina-sotoudeh">Ramina Sotoudeh<span class="arrow">⟿</span></a>
 
-<a href="https://www.wcfia.harvard.edu/people/fumiya-uchikoshi">Fumiya Uchikoshi <span class="arrow">⟿</span></a>
+<a href="https://www.wcfia.harvard.edu/people/fumiya-uchikoshi">Fumiya Uchikoshi<span class="arrow">⟿</span></a>
 
-<a href="https://simonezhang.com/">Simone Zhang <span class="arrow">⟿</span></a>
+<a href="https://simonezhang.com/">Simone Zhang<span class="arrow">⟿</span></a>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
@@ -200,7 +200,7 @@ Completed and ongoing research projects include:
 <br>
 
 <!-- Meeting info -->
-During the Fall 2026 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely comprised of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:dconley@princeton.edu) if you would like to be added to the Biosoc email listserv. 
+During the Fall 2026 semester, lab meetings will be held weekly on Tuesdays from 10:30am to 12:00pm. While the lab is largely composed of doctoral students from the Department of Sociology and/or the Office of Population Research at Princeton University, graduate students and researchers from other academic departments and institutions are welcome. Please email [**Dalton**](mailto:dconley@princeton.edu) and [**Sam**](mailto:samtrejo@princeton.edu) if you would like to be added to the Biosoc email listserv. 
 
 <!-- 
 ********************************************************************************
