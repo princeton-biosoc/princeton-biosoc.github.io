@@ -254,15 +254,6 @@ Marissa Thompson, AJ Alvero, Sam Trejo, and Daphne Martschenko. Forthcoming at *
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
 
-#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
-
-Beza Taddess, Luyin Zhang, and Sam Trejo. Forthcoming at *Sociological Science*.
-
-<a href="https://github.com/luyin-z/attractiveness_penalties" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
-
-<div style="font-size: 10pt;"> <br> </div>
-<div style="font-size: 10pt;"> <br> </div>
-
 #### [The Early Origins of Biological Aging: Maternal Income, Education, and DNA Methylation Patterns at Ages 9-15](https://www.bezataddess.com/)
 
 Beza Taddess. Forthcoming at *Demography*.
@@ -275,6 +266,22 @@ Beza Taddess. Forthcoming at *Demography*.
 Luyin Zhang and Sam Trejo. Forthcoming at *Demography*.
 
 <a href="https://github.com/luyin-z/estimating_admixture" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [The Long Half-Life of Neighborhood Poverty: Duration, Timing, and Biological Aging ](https://doi.org/10.1093/aje/kwag182)
+
+Beza Taddess and Adam Lippert. *American Journal of Epidemiology*.
+
+<div style="font-size: 10pt;"> <br> </div>
+<div style="font-size: 10pt;"> <br> </div>
+
+#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://sociologicalscience.com/articles-v13-31-802/)
+
+Beza Taddess, Luyin Zhang, and Sam Trejo. *Sociological Science*.
+
+<a href="https://github.com/luyin-z/attractiveness_penalties" style="text-decoration-color: #717272;"><span style="font-size: 8pt; color: #717272; letter-spacing: 2px;">REPLICATION CODE</span> <span class="arrow">⟿</span></a>
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
