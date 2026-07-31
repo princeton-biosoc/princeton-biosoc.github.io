@@ -115,7 +115,7 @@ ASSISTANT PROFESSOR OF SOCIOLOGY </p>
 
 <a href="https://www.linkedin.com/in/vin-menon">Vinayak Menon<span class="arrow">⟿</span></a>
 
-<a href="https://sociology.princeton.edu/people/beza-taddess">Beza Taddess <span class="arrow">⟿</span></a>
+<a href="https://sociology.princeton.edu/people/beza-taddess">Beza Taddess<span class="arrow">⟿</span></a>
 
 <a href="https://opr.princeton.edu/people/ruolin-wang">Ruolin Wang<span class="arrow">⟿</span></a>
 
@@ -445,7 +445,7 @@ Zachary Van Winkle and Dalton Conley. *Demography*.
 
 #### [Public Attitudes Toward Genetic Risk Scoring in Medicine and Beyond](https://www.sciencedirect.com/science/article/pii/S0277953621001283) 
 
-Simone Zhang, Rebecca Johnson, John Novembre, Edward Freeland, Dalton Conley. *Social Science and Medicine*.
+Simone Zhang, Rebecca Johnson, John Novembre, Edward Freeland, and Dalton Conley. *Social Science \& Medicine*.
 
 <div style="font-size: 10pt;"> <br> </div>
 <div style="font-size: 10pt;"> <br> </div>
